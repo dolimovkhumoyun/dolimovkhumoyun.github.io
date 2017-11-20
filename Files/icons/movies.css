@@ -1,0 +1,40 @@
+.header{
+width:1350 ;
+height: 350px;
+border: 1px solid red;
+margin: ;
+background-image: url(../Files/Header.jpg);
+margin-top: -35px;
+}
+
+.home_icon {
+
+width: 64px;
+height:  64px;
+background-image: url(../Files/home-icon.png);
+margin: 10px;
+
+}
+
+
+.header h2{
+
+color: #c6baba;
+font-family:strong;
+text-align: center;
+padding-top: 80px;
+font-size: 40px;
+letter-spacing: 10px;
+word-spacing: 35px;
+}
+
+
+.header h4{
+color: black;
+font-family:Nyala;
+text-align: center;
+font-size: 40px;
+letter-spacing: 10px;
+word-spacing: 35px;
+
+}

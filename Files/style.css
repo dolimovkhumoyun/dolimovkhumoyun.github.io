@@ -1,0 +1,263 @@
+.link{
+width: 1350px;
+height: 32px;
+border:0px solid red;
+background-color: #333;
+position: fixed;
+opacity: 0.8
+}
+
+.header{
+width:1350 ;
+height: 350px;
+border: 0px solid blue;
+margin: ;
+background-image: url(../Files/Header.jpg);
+margin-top: -35px;
+}
+
+.home_icon {
+
+width: 64px;
+height:  64px;
+background-image: url(../Files/home-icon.png);
+margin: 10px;
+
+}
+
+
+.header h2{
+
+color: #c6baba;
+font-family:strong;
+text-align: center;
+padding-top: 80px;
+font-size: 40px;
+letter-spacing: 10px;
+word-spacing: 35px;
+}
+
+
+.header h4{
+color: black;
+font-family:Nyala;
+text-align: center;
+font-size: 40px;
+letter-spacing: 10px;
+word-spacing: 35px;
+
+}
+
+.center_photo{
+width: 150px;
+height: 150px;
+margin:auto ;
+margin-top: : -35px;
+z-index: 100
+}
+.content{
+
+width:1350px;
+height: 150px;
+border: 0px solid #ff0000;
+}
+.left{
+
+width: 690px;
+height:300px;
+border: 0px solid #333; 
+float: left;
+background-color: #eee;
+}
+.right{
+width: 659px;
+height: 300px;
+float:right;
+background-color:#eee; 
+border: 0px solid red;
+border-left: 1px solid #888;
+}
+.left h2{
+text-align: center;
+padding: 15px;
+font-family: Nyala;
+color: #333;
+font-size: 50px
+margin-top:50px;
+border: 1px solid gray;
+
+}
+
+.left p{
+
+text-align: center;
+padding: 20px;
+font-family: Nyala;
+color: #333;
+font-size: 25px;
+
+}
+.right h2{
+
+text-align: center;
+padding: 15px;
+font-family: Nyala;
+color: #333;
+font-size: 50px
+margin-top:50px;
+border: 1px solid gray;
+}
+.right p{
+
+text-align: center;
+padding: 20px;
+font-family: Nyala;
+color: black;
+font-size: 25px;
+margin-top:50px;
+}
+.footer{
+
+width: 1350px;
+height: 200px;
+border: 1px solid #333;
+background-color:#333;
+margin: auto;
+overflow: hidden;
+}
+
+.footer_home{
+
+width: 1350px;
+height: 300px;
+border: 1px solid #333;
+background-color:#333;
+margin-top: 0px;
+margin: auto;
+}
+
+.icon{
+	width: 180px;
+	border: 0px solid red;
+	margin: auto;
+	margin-top: 70px;
+}
+
+.company{
+	width: 200px;
+	height:50px;
+	border: 0px solid red;
+	margin: auto;
+
+}
+.company h2{
+	margin: auto;
+ 	margin-top: 0px;
+ text-align: center;
+ font-family: Nyala;
+ font-size: 50px
+
+
+}
+.number{
+width: 200px;
+height: auto;
+border:1px solid red;
+margin:auto;
+}
+.company p{
+
+margin-top: -80px;
+margin-left:   540px;
+font-size: 35px;
+font-family: Nyala;
+}
+
+.link a{
+	opacity: 0.5;
+color: white;
+padding-left: 25px;
+}
+
+.link a:hover{
+	opacity: 1;
+}
+.contentmovies{
+
+width: 1350px;
+height: auto;
+border:0px solid red;
+overflow: hidden
+
+}
+
+.total{
+	width: 1350px;
+	height: auto;
+	margin:auto;
+}
+.film{
+	width: 100%;
+	height: auto;
+	margin:auto;
+	border: 0px dashed blue;
+	overflow: hidden;
+	margin-top: 40px;
+}
+
+.left1{
+width: 180px;
+height:280px;
+border: 0px solid green;
+float: left;
+margin: 15px;
+}
+.right1{
+
+width: 1050px;
+height: 256px;
+border: 0px solid red;
+float: right;
+margin-top: 32px;
+margin-right: 45px
+}
+.right1 h2{
+
+font-size: 35px;
+font-family:Monotype Corsiva;
+
+}
+.right1 p{
+font-size: 20px;
+font-family:Nyala;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
